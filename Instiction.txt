@@ -1,0 +1,4 @@
+F:
+cd 123
+venv\Scripts\activate
+python main.py
